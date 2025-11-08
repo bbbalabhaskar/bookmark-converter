@@ -1,0 +1,41 @@
+{
+    "title": "Bookmarks Menu",
+    "type": "text/x-moz-place-container",
+    "dateAdded": 1699564800000000,
+    "lastModified": 1699564800000000,
+    "children": [
+        {
+            "title": "GitHub",
+            "uri": "https://github.com",
+            "type": "text/x-moz-place",
+            "dateAdded": 1699564800000000,
+            "lastModified": 1699564800000000
+        },
+        {
+            "title": "Development",
+            "type": "text/x-moz-place-container",
+            "dateAdded": 1699564800000000,
+            "lastModified": 1699564800000000,
+            "children": [
+                {
+                    "title": "Spring Boot",
+                    "uri": "https://spring.io/projects/spring-boot",
+                    "type": "text/x-moz-place",
+                    "dateAdded": 1699564800000000
+                },
+                {
+                    "title": "Stack Overflow",
+                    "uri": "https://stackoverflow.com",
+                    "type": "text/x-moz-place",
+                    "dateAdded": 1699564800000000
+                }
+            ]
+        },
+        {
+            "title": "Google",
+            "uri": "https://google.com",
+            "type": "text/x-moz-place",
+            "dateAdded": 1699564800000000
+        }
+    ]
+}
